@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+/* to avoid side scrolling*/
+img {
+  width: 100%;
+}
